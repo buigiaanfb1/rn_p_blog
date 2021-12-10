@@ -1,1 +1,1 @@
-# rn_p_blog
+# rn_p_blogs
